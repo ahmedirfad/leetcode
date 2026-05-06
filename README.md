@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmedirfad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ahmedirfad/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
