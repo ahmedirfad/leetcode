@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ahmedirfad/leetcode/tree/master/0682-baseball-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ahmedirfad/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmedirfad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ahmedirfad/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmedirfad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ahmedirfad/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ahmedirfad/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
