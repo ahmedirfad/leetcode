@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ahmedirfad/leetcode/tree/master/0050-powx-n) |
+| [1486-xor-operation-in-an-array](https://github.com/ahmedirfad/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmedirfad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ahmedirfad/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ahmedirfad/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ahmedirfad/leetcode/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/ahmedirfad/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
