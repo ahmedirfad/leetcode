@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ahmedirfad/leetcode/tree/master/0682-baseball-game) |
+| [1470-shuffle-the-array](https://github.com/ahmedirfad/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ahmedirfad/leetcode/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ahmedirfad/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmedirfad/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
