@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/ahmedirfad/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/ahmedirfad/leetcode/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/ahmedirfad/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ahmedirfad/leetcode/tree/master/1929-concatenation-of-array) |
